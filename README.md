@@ -1,7 +1,9 @@
-# AREP-IaC LAB- Web app automatically deployed to AWS
+# AYGO - LLM Lab
 ## Descripción
 
-
+El objetivo de este laboratorio es implementar y experimentar 3 LLM, iniciando con una versión básica que simplemente
+haga uso de los servicios de OpenAI, luego una versión usando conocimiento propio almacenado localmente y finalmente
+una versión que utilice un almacenamiento de vectores en la nube para almacenar el modelo.
 
 ## Pre-requisitos
 ### Herramientas
